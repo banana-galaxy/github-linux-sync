@@ -1,6 +1,6 @@
 # Github Linux sync
 
-Instructions on how to setup github automatic synching and backup for programs with files used as databases.
+Instructions on how to setup github automatic synching and backup for programs with files used as databases. e.g. password managers, keepass, keepassxc
 
 ## Choose local git folder
 
@@ -72,4 +72,4 @@ If everything was done correctly you should now be able to start your app from t
 
 ## Notes
 
-There is an edge case bug with this that if you poweroff your system without closing the app, any modifications you made will not be uploaded to github. I know there is a way to add a script that'll do it on system poweroff. I might add it later.
+There is an edge case bug. If you poweroff your system without closing the app, any modifications you made will not be uploaded to github. I know there is a way to add a script that'll do it on system poweroff. I might add it later.
