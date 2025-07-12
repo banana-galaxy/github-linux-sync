@@ -20,7 +20,11 @@ You may also need to rename your branch to `main` after you do `git init`, git w
 
 ```
 git init
+```
+```
 git remote add origin <remote>
+```
+```
 git pull origin main
 ```
 
